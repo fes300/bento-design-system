@@ -8,7 +8,7 @@ import { bodyRecipe } from "../Typography/Body/Body.css";
 import { useBentoConfig } from "../BentoConfigContext";
 
 type Props = FieldProps<string> & {
-  placeholder: LocalizedString;
+  placeholder?: LocalizedString;
   isReadOnly?: boolean;
   rows?: number;
 };

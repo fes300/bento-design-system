@@ -11,7 +11,7 @@ import { useBentoConfig } from "../BentoConfigContext";
 import { match } from "ts-pattern";
 
 type Props = FieldProps<string> & {
-  placeholder: LocalizedString;
+  placeholder?: LocalizedString;
   isReadOnly?: boolean;
   type?: "text" | "email" | "url" | "password";
   rightAccessory?: Children;
