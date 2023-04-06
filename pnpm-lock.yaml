@@ -334,7 +334,7 @@ importers:
       '@tsconfig/docusaurus': 1.0.6
       '@types/babel__generator': 7.6.4
       '@types/babel__standalone': 7.1.4
-      '@types/babel__traverse': 7.17.1
+      '@types/babel__traverse': 7.18.3
       '@types/node': 18.6.2
       '@types/react': ^18
       '@vanilla-extract/sprinkles': 1.4.1
@@ -388,7 +388,7 @@ importers:
       '@tsconfig/docusaurus': 1.0.6
       '@types/babel__generator': 7.6.4
       '@types/babel__standalone': 7.1.4
-      '@types/babel__traverse': 7.17.1
+      '@types/babel__traverse': 7.18.3
       '@types/node': 18.6.2
       '@types/react': 18.0.15
       '@vanilla-extract/sprinkles': 1.4.1_@vanilla-extract+css@1.9.5
@@ -3539,7 +3539,7 @@ packages:
       '@babel/helper-hoist-variables': 7.18.6
       '@babel/helper-split-export-declaration': 7.18.6
       '@babel/parser': 7.18.11
-      '@babel/types': 7.18.10
+      '@babel/types': 7.21.2
       debug: 4.3.4
       globals: 11.12.0
     transitivePeerDependencies:
@@ -8028,7 +8028,7 @@ packages:
       '@babel/types': 7.21.2
       '@types/babel__generator': 7.6.4
       '@types/babel__template': 7.4.1
-      '@types/babel__traverse': 7.17.1
+      '@types/babel__traverse': 7.18.3
     dev: true
 
   /@types/babel__generator/7.6.4:
@@ -8052,10 +8052,10 @@ packages:
       '@babel/types': 7.21.2
     dev: true
 
-  /@types/babel__traverse/7.17.1:
-    resolution: {integrity: sha512-kVzjari1s2YVi77D3w1yuvohV2idweYXMCDzqBiVNN63TcDWrIlTVOYpqVrvbbyOE/IyzBoTKF0fdnLPEORFxA==}
+  /@types/babel__traverse/7.18.3:
+    resolution: {integrity: sha512-1kbcJ40lLB7MHsj39U4Sh1uTd2E7rLEa79kmDpI6cy+XiXsteB3POdQomoq4FxszMrO3ZYchkhYJw7A2862b3w==}
     dependencies:
-      '@babel/types': 7.18.10
+      '@babel/types': 7.21.2
     dev: true
 
   /@types/base64-url/2.2.0:
@@ -9844,7 +9844,7 @@ packages:
       '@babel/template': 7.20.7
       '@babel/types': 7.21.2
       '@types/babel__core': 7.1.19
-      '@types/babel__traverse': 7.17.1
+      '@types/babel__traverse': 7.18.3
     dev: true
 
   /babel-plugin-macros/2.8.0:
@@ -16219,7 +16219,7 @@ packages:
       '@jest/expect-utils': 28.1.3
       '@jest/transform': 28.1.3
       '@jest/types': 28.1.3
-      '@types/babel__traverse': 7.17.1
+      '@types/babel__traverse': 7.18.3
       '@types/prettier': 2.7.2
       babel-preset-current-node-syntax: 1.0.1_@babel+core@7.21.0
       chalk: 4.1.2
